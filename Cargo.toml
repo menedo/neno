@@ -1,0 +1,9 @@
+[package]
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "A neighbor Endpoint Node Object markup language"
+edition = "2018"
+keywords = ["language", "markup"]
+license = "MIT/Apache-2.0"
+name = "neno"
+readme = "README.md"
+version = "0.0.1"
